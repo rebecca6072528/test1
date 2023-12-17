@@ -17,4 +17,3 @@ git commit -m "hello"
 
 123
 abc
-def
